@@ -1,0 +1,7 @@
+map[[:space:]]1.fbx filter=lfs diff=lfs merge=lfs -text
+Clearsky.psd filter=lfs diff=lfs merge=lfs -text
+sketchfabTemp.obj.fbx filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+.psd filter=lfs diff=lfs merge=lfs -text
+.fbx filter=lfs diff=lfs merge=lfs -text
